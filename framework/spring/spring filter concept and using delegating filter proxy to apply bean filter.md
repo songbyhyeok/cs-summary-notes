@@ -12,7 +12,7 @@
 * 서블릿/필터 개입 방지 및 응답 반환
 * 요청/응답 수정 및 전달
 
-### Filter chain
+### filter chain
 ```Java
 // filterChain Usage ExampleFilter Role
 public void dofilter(ServletRequest request, ServletResponse response, filterChain chain) {
@@ -24,6 +24,7 @@ public void dofilter(ServletRequest request, ServletResponse response, filterCha
 
 여러 개의 필터가 순차적으로 요청/응답을 처리할 수 있도록 제공된 구조
 
+<br>
 
 ## delegating filter proxy
 <img src="https://github.com/user-attachments/assets/0beb9fb1-83d7-4781-93f8-e9e2a89349a5" style="width: 30%; height: auto;">  
@@ -48,4 +49,8 @@ public void dofilter(ServletRequest request, ServletResponse response, filterCha
 }
 ```
 
-ServletContainer Filter 등록 시점과 ApplicationContext Bean 생성 및 로드 시점 간의 충돌을 방지하는 역할
+ServletContainer Filter 등록 시점과 ApplicationContext Bean 생성 및 로드 시점 간의 충돌을 방지하는 역할  
+
+<br>
+
+![Image](https://github.com/user-attachments/assets/c174acc7-9925-4f25-bb7e-65d632ae49d6)
