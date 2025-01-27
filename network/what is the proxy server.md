@@ -1,3 +1,4 @@
+
 # what is the proxy server ?
 <img src="https://github.com/user-attachments/assets/55525dce-eb32-46bd-8b48-752d2a572180" style="width: 80%; height: auto">
 
@@ -56,6 +57,3 @@
 * 콘텐츠 스트리밍
 ```
 <br>
-
-# reference
-- [Proxy Server란?](http://localhost:4000/network/what-is-the-proxy-server/)
