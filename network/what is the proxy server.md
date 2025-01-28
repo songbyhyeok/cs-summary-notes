@@ -57,3 +57,6 @@
 * 콘텐츠 스트리밍
 ```
 <br>
+
+# reference
+- [Proxy Server](https://songbyhyeok.github.io/network/what-is-the-proxy-server/)
