@@ -4,4 +4,5 @@
 
 ## network
 - [what is the proxy server](https://github.com/songbyhyeok/cs-summary-notes/blob/52206def31c852f2c2813b5adf1bdc909f5adfd5/network/what%20is%20the%20proxy%20server.md)
+- [understanding cookie and session token](https://github.com/songbyhyeok/cs-summary-notes/blob/d45902a1add86a91d9e464154d35894b402c7f10/network/understanding%20cookies%20and%20session%20tokens.md)
 
