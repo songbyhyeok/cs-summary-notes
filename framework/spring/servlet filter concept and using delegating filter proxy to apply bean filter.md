@@ -60,5 +60,5 @@ ServletContainer Filter 등록 시점과 ApplicationContext Bean 생성 및 로�
 
 ![Image](https://github.com/user-attachments/assets/c174acc7-9925-4f25-bb7e-65d632ae49d6)  
 
-# note
+# reference
 - [Servlet Filter 개념과 그리고 DelegatingFilterProxy를 사용한 Bean 필터 적용 과정](https://songbyhyeok.github.io/spring/spring-filter-concept-and-using-delegatingfilterproxy-to-apply-bean-filter/)

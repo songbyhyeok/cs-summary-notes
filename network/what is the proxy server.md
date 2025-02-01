@@ -56,7 +56,6 @@
 * DDos 방어
 * 콘텐츠 스트리밍
 ```
-<br>
 
-# reference
+## reference
 - [Proxy Server](https://songbyhyeok.github.io/network/what-is-the-proxy-server/)
