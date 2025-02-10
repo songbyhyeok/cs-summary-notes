@@ -42,10 +42,11 @@
 - 네트워크 장비(HW) 간에 데이터를 전송하는 역할을 수행
   - device driver, nic
 
-**TCP/IP 통신의 흐름**
-![Image](https://github.com/user-attachments/assets/bee04cfc-1bca-4da3-a2ce-7196d0717128)
-![Image](https://github.com/user-attachments/assets/4933a719-e37c-4f08-9e93-567dbecb83f8)
-출처: https://inpa.tistory.com/329
+**TCP/IP 통신의 흐름**  
+![Image](https://github.com/user-attachments/assets/bee04cfc-1bca-4da3-a2ce-7196d0717128)  
+![Image](https://github.com/user-attachments/assets/4933a719-e37c-4f08-9e93-567dbecb83f8)  
+출처: https://inpa.tistory.com/329  
+<br>
 
 **클라이언트 to 서버**
 - **트랜스포트 계층**
@@ -71,9 +72,9 @@
 **MAC**
 - NIC 고유 식별 주소
 
-**ARP**
-![Image](https://github.com/user-attachments/assets/dee185a9-d787-479f-9864-c61cfec4ea9a)
-출처: https://code-boki.tistory.com/23
+**ARP**  
+![Image](https://github.com/user-attachments/assets/dee185a9-d787-479f-9864-c61cfec4ea9a)  
+출처: https://code-boki.tistory.com/23  
 - 단말 간 통신하기 위해서는 IP와 MAC 주소를 매핑해야 하는데, 이를 대신 수행한다.
 
 **라우팅**
@@ -106,8 +107,8 @@
 5. **HTTP** 웹 서버에 대한 요청 내용을 처리
 
 ## 1.7 URI와 URL
-![Image](https://github.com/user-attachments/assets/5a00793d-e369-46a7-9382-9a6d559a7fdf)
-![Image](https://github.com/user-attachments/assets/0f46caf0-ff63-483b-b508-2053152eb2e5)
+![Image](https://github.com/user-attachments/assets/5a00793d-e369-46a7-9382-9a6d559a7fdf)  
+![Image](https://github.com/user-attachments/assets/0f46caf0-ff63-483b-b508-2053152eb2e5)  
 출처: https://hstory0208.tistory.com/entry/URI%EC%99%80-URL-%EB%B9%84%EC%8A%B7%ED%95%B4%EB%B3%B4%EC%9D%B4%EB%8A%94%EB%8D%B0-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4-%EB%AD%98%EA%B9%8C-%EC%99%84%EB%B2%BD-%EC%A0%95%EB%A6%AC
 
 **URI(Uniform Resource Identifier)** 
