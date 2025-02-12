@@ -9,3 +9,4 @@
 ## books
 ### http-network-basic
 - [chapter1](https://github.com/songbyhyeok/cs-summary-notes/blob/6e62b61d474de75435bfe1681665b267eaafb280/learning-http-network-basics-through-Illustrations/chapter1.md)
+- [chapter2](https://github.com/songbyhyeok/cs-summary-notes/blob/97d1a803c73fc9880afac73ce307648090ba9dfc/learning-http-network-basics-through-Illustrations/chapter2.md)
