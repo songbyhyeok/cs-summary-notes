@@ -13,3 +13,13 @@
 - [chapter3](https://github.com/songbyhyeok/cs-summary-notes/blob/2bcc59e760470a6a0fea238604ac7f262ad3ed89/learning-http-network-basics-through-Illustrations/chapter3.md)
 - [chapter4](https://github.com/songbyhyeok/cs-summary-notes/blob/2bcc59e760470a6a0fea238604ac7f262ad3ed89/learning-http-network-basics-through-Illustrations/chapter4.md)
 - [chapter5](https://github.com/songbyhyeok/cs-summary-notes/blob/2bcc59e760470a6a0fea238604ac7f262ad3ed89/learning-http-network-basics-through-Illustrations/chapter5.md)
+- [chapter6](https://github.com/songbyhyeok/cs-summary-notes/blob/281df18886baae52227a3064c372cc64528fb87d/learning-http-network-basics-through-Illustrations/chapter6.md)
+
+
+
+
+
+
+
+
+
